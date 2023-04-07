@@ -1,6 +1,6 @@
-vless://8811197a-0ef5-49a2-88bf-60d2fd099f95@alpha1.2alpha.sbs:8080?path=@Amir_138_T&security=none&encryption=none&host=alpha3.2alpha.sbs&type=ws#@Alpha_Omega_Vpn
-vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@45.85.119.65:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@mkh.ircf.space:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@160.153.0.190:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@irancelldns.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-vless://8811197a-0ef5-49a2-88bf-60d2fd099f95@alpha1.2alpha.sbs:8080?path=@Amir_138_T&security=none&encryption=none&host=alpha3.2alpha.sbs&type=ws#@Alpha_Omega_Vpn
+trojan://mw4bn4IOxK@45.95.241.211:2096?mode=gun&security=tls&type=grpc&serviceName=ourtimeisnow&sni=morbidangel.babaconfig.online#%E2%9A%A1%23020-%E2%9A%A1+-+Irancell+NUTTY+SERVERS
+trojan://KC1AJyY6wn@45.95.241.211:2096?mode=gun&security=tls&alpn=h2,http/1.1&type=grpc&serviceName=ourtimeisnow&sni=customersupportteam.babaconfig.online#%E2%9A%A1%23010-Irancell%E2%9A%A1NUTTY+SERVERS
+trojan://jkRl0YOrzK@45.95.241.188:2096?mode=gun&security=tls&type=grpc&serviceName=ourtimeisnow&sni=irancell.babaconfig.online#%E2%9A%A1%23040-%E2%9A%A1+-+Irancell+NUTTY+SERVERS
+trojan://xm85LXIjX6@api.asiatech.host:2053?mode=gun&security=tls&alpn=h2,http/1.1&type=grpc&serviceName=ourtimeisnow&sni=downloadcenter.asiatech.host#%E2%9A%A1%23010-%E2%9A%A1%23MCI+-+%D9%87%D9%85%D8%B1%D8%A7%D9%87+NUTTY+SERVERS
+trojan://KZcGZ6iZmg@api.asiatech.host:2053?mode=gun&security=tls&type=grpc&serviceName=ourtimeisnow&sni=soft98.asiatech.host#%E2%9A%A1%23020-%E2%9A%A1%23MCI+-+%D9%87%D9%85%D8%B1%D8%A7%D9%87+NUTTY+SERVERS
+trojan://V5G6PCUiwI@api.asiatech.host:2053?mode=gun&security=tls&alpn=h2,http/1.1&type=grpc&serviceName=ourtimeisnow&sni=hexdownload.asiatech.host#%E2%9A%A1%23040-%E2%9A%A1%23MCI+-+%D9%87%D9%85%D8%B1%D8%A7%D9%87+NUTTY+SERVERS
