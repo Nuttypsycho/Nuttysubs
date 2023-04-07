@@ -1,11 +1,6 @@
-
 vless://8811197a-0ef5-49a2-88bf-60d2fd099f95@alpha1.2alpha.sbs:8080?path=@Amir_138_T&security=none&encryption=none&host=alpha3.2alpha.sbs&type=ws#@Alpha_Omega_Vpn
 vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@45.85.119.65:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-
 vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@mkh.ircf.space:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-
 vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@160.153.0.190:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-
 vless://5e3c8df4-5b04-46bf-d433-262ca78c3e6c@irancelldns.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Amir_138_T&sni=alpha3.2alpha.sbs#@Alpha_Omega_Vpn
-
 vless://8811197a-0ef5-49a2-88bf-60d2fd099f95@alpha1.2alpha.sbs:8080?path=@Amir_138_T&security=none&encryption=none&host=alpha3.2alpha.sbs&type=ws#@Alpha_Omega_Vpn
